@@ -7,6 +7,8 @@
 
 *Noção de uso do Git*
 
+*Conta na AWS*
+
 ## Etapas para criação do bot
 - Escolhendo o Alvo
 - Definindo o objetivo
