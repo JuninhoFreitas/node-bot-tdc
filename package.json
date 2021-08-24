@@ -1,0 +1,14 @@
+{
+  "name": "node-bot-tdc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JuninhoFreitas/node-bot-tdc",
+  "author": "joao.junior <joao.junior@pmweb.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1",
+    "pm2": "^5.1.1",
+    "telegraf": "^4.4.1"
+  }
+}
